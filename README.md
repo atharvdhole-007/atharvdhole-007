@@ -39,7 +39,6 @@
 
 ###
 
-# 💫 About Me:
 <p align="left">🔭 I’m currently working on building impactful projects in AI/ML, backend development, and full-stack applications<br>🤝 I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions<br>🛠️ I’m looking for help with scaling systems, advanced AI models, and real-world deployment<br>🌱 I’m currently learning deep learning, system design, and cloud technologies<br>💬 Ask me about Java, Python, backend development, Git, and problem-solving<br>⚡ Fun fact: I enjoy turning ideas into real-world projects and experimenting with new technologies</p>
 
 ###
