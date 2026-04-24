@@ -43,7 +43,7 @@
 
 ###
 
-<div align="right" style="white-space: nowrap;">
+<div style="display: flex; justify-content: flex-end; gap: 10px;">
   <a href="https://www.linkedin.com/in/atharv-dhole-67248933b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
