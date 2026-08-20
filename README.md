@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Atharv, and <br>I'm an Engineering Student from VIT Pune</h1>
+<h1 align="left">Hi, I'm Atharv — 3rd-year AIDS student</h1>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on building impactful projects in AI/ML, backend development, and full-stack applications<br>🤝 I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions<br>🛠️ I’m looking for help with scaling systems, advanced AI models, and real-world deployment<br>🌱 I’m currently learning deep learning, system design, and cloud technologies<br>💬 Ask me about Java, Python, backend development, Git, and problem-solving<br>⚡ Fun fact: I enjoy turning ideas into real-world projects and experimenting with new technologies</p>
+<p align="left">🔭 I’m currently working on building impactful projects in AI/ML, backend development, and full-stack applications<br>🤝 I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions<br>🛠️ I’m looking for help with scaling systems, advanced AI models, and real-world deployment<br>🌱 I’m currently learning deep learning, system design, and cloud technologies</p>
 
 ###
 
