@@ -2,7 +2,7 @@
 
 ###
 
-# 💻 Tech Stack:
+# Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on building impactful projects in AI/ML, backend development, and full-stack applications<br>🤝 I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions<br>🛠️ I’m looking for help with scaling systems, advanced AI models, and real-world deployment<br>🌱 I’m currently learning deep learning, system design, and cloud technologies</p>
+<p align="left">- I’m currently working on building impactful projects in AI/ML, backend development, and full-stack applications<br>- I’m looking to collaborate on innovative tech projects, hackathons, and open-source contributions<br>- I’m looking for help with scaling systems, advanced AI models, and real-world deployment<br>- I’m currently learning deep learning, system design, and cloud technologies</p>
 
 ###
 
